@@ -17,7 +17,7 @@ Before running this application, you need to have the following installed:
  1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/mailchimp-subscription-form.git
+git clone https://github.com/Tejjus/mailchimp-api.git
 cd mailchimp-subscription-form
 ```
 
